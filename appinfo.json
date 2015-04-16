@@ -1,0 +1,28 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jfdesrochers@gmail.com",
+    "longName": "TextFrench",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": ".",
+                "file": "fonts/Roboto-BoldItalic.ttf",
+                "name": "ROBOTO_BI_35",
+                "trackingAdjust": -2,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "TextFrench",
+    "uuid": "2cdaf962-9633-4d2a-b35d-6286f3e9d97c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
