@@ -2,4 +2,4 @@
 
 French translation of the Pebble "Text Watch".
 
-Based off : 
+Based off : https://github.com/wearewip/PebbleTextWatch
