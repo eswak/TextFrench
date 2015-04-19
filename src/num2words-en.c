@@ -178,4 +178,7 @@ void time_to_4words(int hours, int minutes, char *line1, char *line2, char *line
 		start += pch-start+1;
 		pch = strstr(start, " ");
 	}
+  if (strcmp(line4, "une") == 0) {
+    strcpy(line4, "et un");
+  }
 }

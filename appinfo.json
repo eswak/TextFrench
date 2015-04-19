@@ -9,15 +9,39 @@
     "resources": {
         "media": [
             {
+                "file": "images/battery_bar.png",
+                "name": "BATT_BAR",
+                "type": "png"
+            },
+            {
+                "file": "images/jfdtiny.png",
+                "menuIcon": true,
+                "name": "MENU_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/bt_foreground.png",
+                "name": "BT_FG",
+                "type": "png-trans"
+            },
+            {
+                "characterRegex": "[a-z]",
                 "file": "fonts/gotham_bold_36.ttf",
                 "name": "FONT_GOTHAM_BOLD_36",
                 "trackingAdjust": -2,
                 "type": "font"
             },
             {
+                "characterRegex": "[a-z\\-\\.]",
                 "file": "fonts/gotham_light_31.ttf",
                 "name": "FONT_GOTHAM_LIGHT_31",
                 "trackingAdjust": -2,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[a-zA-Z0-9\\.\\-]",
+                "file": "fonts/gotham_light_31.ttf",
+                "name": "FONT_GOTHAM_LIGHT_14",
                 "type": "font"
             }
         ]
